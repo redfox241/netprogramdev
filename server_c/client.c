@@ -8,7 +8,7 @@
  
 /**
  * @file client.c
- * @author zhaochuanyong(com@baidu.com)
+ * @author redfox241@sohu.com 
  * @date 2014/02/25 23:35:46
  * @brief 
  *  
