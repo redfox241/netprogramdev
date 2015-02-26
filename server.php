@@ -9,7 +9,7 @@
 
 /**
  * @file server.php
- * @author zhaochuanyong(com@baidu.com)
+ * @author redfox241@sohu.com
  * @date 2014/01/19 13:55:57
  * @brief 
  *  
